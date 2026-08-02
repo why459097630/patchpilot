@@ -1,12 +1,12 @@
 ---
 name: Bug report
-about: Report a problem with PatchPilot
+about: Report a problem with ChangeLatch
 title: "[Bug] "
 labels: ""
 assignees: ""
 ---
 
-## PatchPilot Version
+## ChangeLatch Version
 
 <!-- Example: v1.0.0 -->
 
@@ -18,7 +18,12 @@ assignees: ""
 
 ## Project Framework
 
-<!-- Example: React, Next.js, Vue, Tauri, Node.js -->
+<!-- Example: React, Next.js, Vue, Tauri, Node.js, Rust -->
+
+
+## Workflow Stage
+
+<!-- Where did the problem occur? Examples: project selection, ZIP generation, PATCH import, exact matching, applying changes, build verification, history, rollback, trial, or license activation. -->
 
 
 ## Problem Description
@@ -35,7 +40,7 @@ assignees: ""
 
 ## Expected Behavior
 
-<!-- What did you expect PatchPilot to do? -->
+<!-- What did you expect ChangeLatch to do? -->
 
 
 ## Actual Behavior
@@ -57,9 +62,9 @@ Paste relevant error messages or build logs here.
 
 ## Additional Information
 
-<!-- Add any other relevant information here. -->
+<!-- Include any other relevant details, such as whether the issue is consistent, intermittent, project-specific, or reproducible in another project. -->
 
 
 ## Security Notice
 
-Do not include private source code, passwords, API keys, license keys, access tokens, personal information, or other sensitive data in this public issue.
+Do not include private source code, passwords, API keys, license keys, access tokens, personal information, payment information, or other sensitive data in this public issue.

@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an improvement or new feature for PatchPilot
+about: Suggest an improvement or new feature for ChangeLatch
 title: "[Feature] "
 labels: ""
 assignees: ""
@@ -8,12 +8,17 @@ assignees: ""
 
 ## Feature Summary
 
-<!-- Briefly describe the feature you would like PatchPilot to support. -->
+<!-- Briefly describe the feature or improvement you would like ChangeLatch to support. -->
+
+
+## Workflow Area
+
+<!-- Which area would this affect? Examples: project selection, ZIP generation, AI instructions, PATCH import, exact matching, review, application, build verification, history, rollback, trial, licensing, or general UI. -->
 
 
 ## Problem or Limitation
 
-<!-- What problem would this feature solve? -->
+<!-- What current problem, limitation, or repetitive step would this feature solve? -->
 
 
 ## Proposed Solution
@@ -28,14 +33,14 @@ assignees: ""
 3.
 
 
-## Alternatives Considered
+## Expected Benefit
 
-<!-- Describe any alternative solutions or workarounds you have considered. -->
+<!-- Explain who would benefit and how this would improve the ChangeLatch workflow. -->
 
 
-## Why This Would Be Useful
+## Alternatives or Workarounds
 
-<!-- Explain who would benefit and how it would improve the PatchPilot workflow. -->
+<!-- Describe any alternatives or workarounds you currently use. -->
 
 
 ## Additional Information
@@ -45,4 +50,4 @@ assignees: ""
 
 ## Security Notice
 
-Do not include private source code, passwords, API keys, license keys, access tokens, personal information, or other sensitive data in this public issue.
+Do not include private source code, passwords, API keys, license keys, access tokens, personal information, payment information, or other sensitive data in this public issue.
